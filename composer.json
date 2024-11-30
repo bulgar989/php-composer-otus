@@ -1,5 +1,6 @@
 {
     "name": "bulgar989/php-composer-otus",
+    "type": "library",
     "version": "1.0.0",
     "license": "MIT",
     "autoload": {
