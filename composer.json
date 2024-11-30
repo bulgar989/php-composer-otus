@@ -1,5 +1,6 @@
 {
     "name": "bulgar989/php-composer-otus",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Bulgar989\\PhpComposerOtus\\": "src/"
