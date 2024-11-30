@@ -1,0 +1,17 @@
+{
+    "name": "bulgar989/php-composer-otus",
+    "autoload": {
+        "psr-4": {
+            "Bulgar989\\PhpComposerOtus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bulgar989",
+            "email": "bulgar989@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
